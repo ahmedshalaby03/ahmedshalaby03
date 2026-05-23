@@ -42,7 +42,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🏥 **Smart Healthcare Platform** | ASP.NET Core, LLM, RAG | Graduation project — connects patients, doctors & hospitals with AI assistance |
+| 🏥 **Smart Healthcare Platform** | ASP.NET Core MVC, LLM | Graduation project — connects patients, doctors & hospitals with AI assistance |
 | 💰 **Expense Tracker** | Angular, ASP.NET Core API, JWT | Full-stack app with Onion Architecture, dashboard & reports |
 | 🏨 **Hotel Booking System** | ASP.NET Core MVC, EF Core | Full-stack booking app with clean architecture |
 | 🛒 **E-Commerce App** | ASP.NET MVC, SQL Server | Product management, cart & order processing |
